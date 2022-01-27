@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Omar Ngenge
 - 🌱 I’m currently learning Kotlin/ C#
-- 💞️ I’m looking to collaborate on Android Development 
+- 💞️ I’m looking to collaborate on Android Development and C# Projectas
 - 📫 How to reach me: Twitter @Noxypubgm, Discord: Noxy#7878
 
 <!---
