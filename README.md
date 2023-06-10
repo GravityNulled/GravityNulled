@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Omar Ngenge<br>🌱 I’m currently learning C# , React, Node Js and Tailwind Css<br>💞️ I’m looking to collaborate on Web Development and C# Projects<br>📫 How to reach me: Mobile: +254720179897, Discord: Noxy#7878
+👋 Hi, I’m Omar Ngenge<br>🌱 I’m currently learning C# , React, Node Js and Typescript<br>💞️ I’m looking to collaborate on Web Development and C# Projects<br>📫 How to reach me: Mobile: +254720179897, Discord: Noxy#7878
 
 
 ## 🌐 Socials:
